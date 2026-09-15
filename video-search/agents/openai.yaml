@@ -1,4 +1,4 @@
 interface:
   display_name: "视频搜索"
-  short_description: "通过 ZIP0 搜索影视并使用本机 HLS 播放器观看"
-  default_prompt: "使用 $video-search 搜索一部影视作品，让我选择结果后用本机播放器打开。"
+  short_description: "搜索第三方影视网站并用默认浏览器打开"
+  default_prompt: "使用 $video-search 搜索一部影片，让我选择结果后用系统默认浏览器打开第三方网站播放页。"
