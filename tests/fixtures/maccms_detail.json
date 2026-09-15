@@ -1,0 +1,19 @@
+{
+  "code": 1,
+  "msg": "数据列表",
+  "page": 1,
+  "pagecount": 1,
+  "limit": 20,
+  "total": 1,
+  "list": [
+    {
+      "vod_id": 201,
+      "vod_name": "公开测试视频",
+      "vod_year": "2013",
+      "type_name": "演示视频",
+      "vod_remarks": "公开 HLS 测试流",
+      "vod_play_from": "Mux公开测试",
+      "vod_play_url": "第1集$https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+    }
+  ]
+}
